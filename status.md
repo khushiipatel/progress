@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Khushi Patel
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao
 
 #### Project title
 
-TODO
+Endless Possibilities 
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Figuring out Renpy. Started building the project on Renpy. Decided on the story, characters, and the game.
 
 #### What have you not done for your project yet?
 
-TODO
+Not finished building the entire story.
 
 #### What problems, if any, have you encountered?
 
-TODO
+We still have to figure out how to incorporate all our code into one game. 
